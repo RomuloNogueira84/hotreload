@@ -5,3 +5,13 @@
 .divs-facilidades {
   width: 325px;
 }
+
+.posicao{
+  top: 40%;
+}
+
+@media(max-width: 767px){
+  .posicao{
+      top:60%;
+  }
+}
